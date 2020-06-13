@@ -1,6 +1,9 @@
 :root {
-    --title-color: #322153;
-    --primary-color: #34cb79
+    --title-color: #1f0f41;
+    --primary-color: #03e76a;
+    --secondary-color: #32fa78e5;
+    --no-color: #e4e4e6;
+    --p-color: #777781;
 }
 
 * {
@@ -14,7 +17,7 @@ html {
 }
 
 body{
-    background: #f0f0f5;
+    background-color: var(--no-color);
     -webkit-font-smoothing: antialiased;
 }
 

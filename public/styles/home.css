@@ -72,7 +72,7 @@
 }
 
 #page-home main a:hover {
-    background-color: #2fb86e;
+    background-color: var(--secondary-color);
 }
 
 #page-home main a span {

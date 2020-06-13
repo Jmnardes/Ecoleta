@@ -65,7 +65,7 @@
 #modal form input {
     flex: 1;
 
-    background-color: #f0f0f5;
+    background-color: var(--no-color);
 
     border-radius: 8px 0 0 8px;
     border: 0;
@@ -85,7 +85,7 @@
 }
 
 #modal form button:hover {
-    background-color: #2fb85e;
+    background-color: var(--secondary-color);
 
     transition: 400ms;
 }
